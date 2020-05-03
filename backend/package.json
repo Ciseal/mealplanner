@@ -3,13 +3,12 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "db-migrate": "^0.11.6",
+    "db-migrate": "^0.11.10",
     "db-migrate-pg": "^1.0.0"
   },
   "dependencies": {
